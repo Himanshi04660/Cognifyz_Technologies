@@ -13,6 +13,7 @@ Tasks Covered
 The notebook Level1_tasks.ipynb contains multiple data analysis tasks categorized under Level 1 of the internship. 
 
 The tasks are:
+
 1️⃣ Top Cuisines Analysis
 1) Objective:
 Identify the top three most common cuisines in the dataset.
