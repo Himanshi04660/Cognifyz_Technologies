@@ -14,6 +14,30 @@ The notebook Level1_tasks.ipynb contains multiple data analysis tasks categorize
 
 The tasks are:
 
+Task 1: Top Cuisines Analysis
+Identified the most popular cuisines based on their frequency in the dataset.
+Used data preprocessing to handle missing values in the "Cuisines" column.
+Counted the occurrences of each cuisine and sorted them to determine the top cuisines.
+This analysis helps in understanding food preferences and trends in different locations.
+
+Task 2: City Analysis
+Analyzed restaurant distribution across different cities.
+Counted the number of restaurants in each city and visualized the data.
+Provided insights into which cities have the most food establishments.
+Helped in identifying high-density restaurant locations for potential business insights.
+
+Task 3: Price Range Distribution 
+Examined the distribution of restaurants across different price ranges.
+Categorized restaurants based on their price levels.
+Used visualizations like bar plots or histograms to showcase price variations.
+Provided insights into affordability and the pricing structure of restaurants.
+
+Task 4: Online Delivery Analysis
+Investigated the availability of online food delivery services.
+Analyzed the proportion of restaurants offering online delivery.
+Helped in understanding market trends and the adoption of online food services.
+Could be useful for businesses looking to expand their delivery operations
+
 1️⃣ Top Cuisines Analysis
 1) Objective:
 Identify the top three most common cuisines in the dataset.
