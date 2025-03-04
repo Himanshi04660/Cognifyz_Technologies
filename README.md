@@ -6,11 +6,12 @@ The dataset includes information about:
 Types of cuisines served:
 1) Restaurant locations
 2) Customer ratings
-3) Online delivery availability
+3) Price range distribution
+4) Online delivery availability
 By analyzing this data, we aim to extract key patterns and trends that could be useful for business decision-making in the food industry.
 
 Tasks Covered
-The notebook Level1_tasks.ipynb contains multiple data analysis tasks categorized under Level 1 of the internship. 
+The notebook Level1_tasks.ipynb contains multiple data analysis tasks categorized under Level 1. 
 
 The tasks are:
 
