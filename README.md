@@ -13,7 +13,7 @@ By analyzing this data, we aim to extract key patterns and trends that could be 
 Tasks Covered
 The notebook Level1_tasks.ipynb contains multiple data analysis tasks categorized under Level 1. 
 
-The tasks are:
+Level 1 Tasks are:
 
 Task 1 - Top Cuisines Analysis:
 Identified the most popular cuisines based on their frequency in the dataset.
@@ -38,3 +38,30 @@ Investigated the availability of online food delivery services.
 Analyzed the proportion of restaurants offering online delivery.
 Helped in understanding market trends and the adoption of online food services.
 Could be useful for businesses looking to expand their delivery operations
+
+
+Level 2 Tasks are:
+
+Task 1 - Cuisine Combination Analysis:
+Identify the most common cuisine combinations and determine if certain cuisine combinations tend to have higher ratings.
+Extracted cuisine combinations from the dataset.
+Analyzed frequency and correlations between different cuisines.
+Used visualizations such as heatmaps and bar charts to highlight trends.
+
+Task 2 - Geographic Analysis:
+Plot the locations of restaurants on a map using longitude and latitude coordinates to identify patterns or clusters.
+Extracted geographic coordinates from the dataset.
+Used Folium to generate an interactive map displaying restaurant locations.
+Identified clusters and density of restaurants in specific regions.
+
+Task 3 - Rating Distribution Analysis:
+Understand the distribution of ratings given to restaurants.
+Plotted a histogram to visualize the rating distribution.
+Identified common rating trends (e.g., most frequent rating values).
+Highlighted regions or categories with the highest and lowest ratings.
+
+Task 4 - Price vs Rating Trends:
+Analyze the relationship between the price range of restaurants and their ratings.
+Used scatter plots and box plots to compare price range vs ratings.
+Identified patterns indicating whether higher-priced restaurants receive better ratings.
+Explored correlations between cost and customer satisfaction
