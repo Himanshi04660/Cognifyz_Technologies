@@ -13,6 +13,7 @@ By analyzing this data, we aim to extract key patterns and trends that could be 
 Tasks Covered
 The notebook Level1_tasks.ipynb contains multiple data analysis tasks categorized under Level 1. 
 
+
 Level 1 Tasks are:
 
 Task 1 - Top Cuisines Analysis:
@@ -65,3 +66,21 @@ Analyze the relationship between the price range of restaurants and their rating
 Used scatter plots and box plots to compare price range vs ratings.
 Identified patterns indicating whether higher-priced restaurants receive better ratings.
 Explored correlations between cost and customer satisfaction
+
+
+Level 3 Tasks are:
+
+Task 1: Restaurant Reviews
+Prints most common positive and negative ratings.
+Displays the average review length.
+Shows a scatter plot of review length vs. aggregate rating.
+
+Task 2: Votes Analysis
+Prints top 5 and bottom 5 restaurants by votes.
+Displays the correlation coefficient between votes and rating.
+Generates a scatter plot of votes vs. ratings.
+
+Task 3: Price Range vs. Online Delivery and Table Booking
+Prints table booking and online delivery availability per price range.
+Conducts chi-square tests for service availability vs. price range.
+Displays bar plots showing service availability by price range.
